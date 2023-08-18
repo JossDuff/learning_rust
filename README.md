@@ -18,4 +18,7 @@ web_server/       - final rust book project.  multithreaded web server
 From the Asynchronous Programming in Rust Book
 timer_future/     - futures
 async_web_server/ - similar to web_server, but uses async-std crate instead of threads
+
+From tokio tutorial (https://tokio.rs/tokio/tutorial/)
+my-redis          - mini-redis
 </pre>
